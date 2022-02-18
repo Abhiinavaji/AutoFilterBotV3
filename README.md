@@ -48,7 +48,7 @@ Check [`sample_info.py`](sample_info.py) before editing [`Config.py`](Config.py)
 * `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
 * `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
 * `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com)
-* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com)
+* `DATABASE_NAME`: Name of the database in 
 
 #### Optional Variables
 * `OMDB_API_KEY`: OMBD_API_KEY to generate imdb poster for filter results.Get it from [omdbapi.com](http://www.omdbapi.com/apikey.aspx)
