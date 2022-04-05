@@ -1,4 +1,7 @@
-{
+{     [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DalinMathew/AutoFilterBotV3)
+    
+    
+    
     "name": "Auto Filter Bot V3",
     "description": "A greater auto filter bot with features like IMDb support,inline mode,broadcast feature etc..",
     "logo":"https://telegra.ph/file/ad9cb7fc42ec0e5e6d006.jpg",
