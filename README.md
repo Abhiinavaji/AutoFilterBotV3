@@ -23,7 +23,7 @@
 
 #### Deploy To Heroku
 
-[![](https://www.herokucdn.com/deplq,oy/button.svg)]template=(https://github.com/Abhiinavaji/AutoFilterBotV3)
+[![](https://www.herokucdn.com/deplq,oy/button.svg)]
 
 #### Hard Way
 ``bash
